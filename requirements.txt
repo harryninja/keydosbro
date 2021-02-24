@@ -1,0 +1,4 @@
+pyscreenshot==2.3
+pynput==1.7.3
+scipy==1.6.1
+sounddevice==0.4.1
