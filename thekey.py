@@ -32,8 +32,8 @@ microphone_time = 10 # 600 is 10 minutes
 
 
 # Email Controls
-email_address = "haroldillert@gmail.com"
-password = "Ninjamma123."
+email_address = ""
+password = ""
 
 
 #######################################################
